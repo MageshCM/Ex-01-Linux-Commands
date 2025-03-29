@@ -1,5 +1,8 @@
 # Ex-01-Linux-Commands
 
+**Name: Magesh C M
+
+Reg No:212223220053**
 
 ## Aim:
 
@@ -14,9 +17,6 @@ helps the communication between hardware and software. The main advantage of Lin
 Linux Commands:
 All basic and advanced tasks can be done by executing commands. The commands are executed on Linux terminal. Linux commands are case sensitive.
 
-Name: Magesh C M
-
-Reg No:212223220053
 
 ## Commands:
 
