@@ -1,8 +1,8 @@
 # Ex-01-Linux-Commands
 
-**Name: Magesh C M
+# Name: Magesh C M
 
-Reg No:212223220053**
+# Reg No:212223220053
 
 ## Aim:
 
